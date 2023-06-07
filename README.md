@@ -8,9 +8,9 @@ At the moment, they have the styling and general layout done, but they're missin
 
 ### Core Features
 
-- [ ] Report card displays student information: name, grade, advisor, major, graduation year, and image
+- [x] Report card displays student information: name, grade, advisor, major, graduation year, and image
 - [ ] Grade dynamically changes and shows **at least 3** semester options (fall, winter, and spring)
-- [ ] Each semester displays the corresponding class, including class code, class name, semester, credits, and letter grade
+- [x] Each semester displays the corresponding class, including class code, class name, semester, credits, and letter grade
 
 ### Stretch Features
 
